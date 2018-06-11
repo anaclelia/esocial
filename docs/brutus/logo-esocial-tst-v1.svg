@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,13 +94,6 @@
        id="g4622"
        transform="matrix(0.57557211,0,0,0.6403469,42.782166,55.669578)"
        style="display:inline">
-      <ellipse
-         style="fill:#ffff99;fill-opacity:1;stroke:#004a7f;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path4688"
-         cx="94.979668"
-         cy="145.96172"
-         rx="55.55603"
-         ry="49.936211" />
       <g
          id="g4692"
          transform="translate(-1.1395381,-0.13638632)">
