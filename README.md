@@ -37,9 +37,3 @@ para o eSocial-GOV e exibir o resultado do processamento (sucesso ou mensagens d
 A priorização dos eventos a serem transmitidos foi feita com base na necessidade atual do TST e
 demais órgãos da Justiça do Trabalho. No entanto, o projeto pode ser estendido para quaisquer tipos
 de eventos especificados pelo eSocial-GOV.
-
-## Logo colors
-
-blue: #004a7f
-yellow: #ffff99
-green: #007f3c
